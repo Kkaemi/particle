@@ -1,17 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
+title: kkaemi의 포트폴리오 사이트입니다
 description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "kkaemi.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Kkaemi
+user_description: 현재 백엔드 개발자 취업을 희망하고 있는 취업준비생 지성현입니다.
+user_title: I wanna be a backend developer
+email: kitys2k3@naver.com
+instagram_username: kkaemi
+github_username:  Kkaemi
 
 # Google-analytics
 google-analytics:
